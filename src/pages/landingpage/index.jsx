@@ -14,7 +14,7 @@ export default function LandingPage() {
         <section>
             <Navbar />
             <HeroSlider />
-            <SearchBar />
+            {/* <SearchBar /> */}
             <CategoryButtons />
             <FeaturedPage />
             <TopratedPage />
